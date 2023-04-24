@@ -1,0 +1,19 @@
+# Intellij
+/.idea/
+*.iml
+*.iws
+# persons data
+*.csv
+*.xls
+*.xlsx
+*.txt
+*.odt
+*.html
+# Maven
+/log/
+/logs/
+/libs/
+/input/
+/target/
+/base/
+/task/
